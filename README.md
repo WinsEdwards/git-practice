@@ -150,7 +150,6 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-This is because GitHub has commits not available locally. One partner managed to push their commits before the other(s).
 
 GitHub will not let the rest of the team push changes until they have merged their git history with what is already on GitHub.
 
